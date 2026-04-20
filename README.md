@@ -2,9 +2,9 @@
 
 一款面向旅行爱好者的个人地点收藏应用。在高德地图上记录足迹、管理照片、由 AI 自动生成旅行文案，并以瀑布流形式回顾所有地点。
 
-<img width="2116" height="1622" alt="image" src="https://github.com/user-attachments/assets/8d1c5f7f-9917-4d4c-82be-e87ccbb781aa" />
+<img width="2116" height="1622" alt="2026-04-20 14 10 54" src="https://github.com/user-attachments/assets/a2c6653a-2a54-4fb8-b7c3-97a0f7648471" />
 
-<img width="2093" height="1980" alt="image" src="https://github.com/user-attachments/assets/cd5e3344-fcb6-4007-a2c0-75da04bf4a07" />
+<img width="2093" height="1980" alt="2026-04-20 14 10 23" src="https://github.com/user-attachments/assets/b264b07e-573b-46e8-86d4-c5fc1ffa6e53" />
 
 
 ---
