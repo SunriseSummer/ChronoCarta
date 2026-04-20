@@ -4,15 +4,15 @@
 
 ## 应用预览
 
-<img width="2116" height="1622" alt="2026-04-20 14 10 54" src="https://github.com/user-attachments/assets/81639a8f-ae70-418e-9cd6-39fe6c47d7e5" />
+<img alt="2026-04-20 14 10 54" src="https://github.com/user-attachments/assets/81639a8f-ae70-418e-9cd6-39fe6c47d7e5" />
 
 ---
 
-<img width="2093" height="1980" alt="2026-04-20 14 10 23" src="https://github.com/user-attachments/assets/7893fc27-fc5e-4634-b88c-e547ce00b91f" />
+<img alt="2026-04-20 14 10 23" src="https://github.com/user-attachments/assets/7893fc27-fc5e-4634-b88c-e547ce00b91f" />
 
 ---
 
-<img width="2171" height="2565" alt="2026-04-20 14 16 20" src="https://github.com/user-attachments/assets/a60d1057-0a12-4270-a805-5d01592f6e35" />
+<img alt="2026-04-20 14 16 20" src="https://github.com/user-attachments/assets/a60d1057-0a12-4270-a805-5d01592f6e35" />
 
 ---
 
