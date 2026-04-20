@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-overlay: var(--overlay);
+  --color-overlay-fg: var(--overlay-fg);
+  --color-overlay-border: var(--overlay-border);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-fg);
+  --color-nav-shadow: var(--nav-shadow);
+
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-heading: "DM Sans", system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+/* ── 暗色主题（默认） ── */
+:root {
+  --background: #0d1210;
+  --foreground: #e3e8e5;
+  --primary: #d4b373;
+  --primary-foreground: #131b17;
+  --secondary: #2a3840;
+  --secondary-foreground: #a9bacc;
+  --muted: #1c2621;
+  --muted-foreground: #83998e;
+  --accent: #1e2b25;
+  --accent-foreground: #d4b373;
+  --destructive: #c05c3d;
+  --card: #131b17;
+  --card-foreground: #e3e8e5;
+  --popover: #131b17;
+  --popover-foreground: #e3e8e5;
+  --border: #283830;
+  --input: #18241f;
+  --ring: #d4b373;
+  --radius: 0.75rem;
+  --overlay: rgba(0, 0, 0, 0.3);
+  --overlay-fg: #ffffff;
+  --overlay-border: rgba(255, 255, 255, 0.1);
+  --success: rgba(20, 83, 45, 0.3);
+  --success-fg: #4ade80;
+  --nav-shadow: 0 -10px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* ── 浅色主题 ── */
+:root[data-theme="light"] {
+  --background: #f7f5f0;
+  --foreground: #1c1c1a;
+  --primary: #b8943c;
+  --primary-foreground: #ffffff;
+  --secondary: #e8e4dc;
+  --secondary-foreground: #4a4a42;
+  --muted: #eae6de;
+  --muted-foreground: #7a7a6e;
+  --accent: #f0ead8;
+  --accent-foreground: #b8943c;
+  --destructive: #c05c3d;
+  --card: #ffffff;
+  --card-foreground: #1c1c1a;
+  --popover: #ffffff;
+  --popover-foreground: #1c1c1a;
+  --border: #ddd8ce;
+  --input: #f0ede6;
+  --ring: #b8943c;
+  --overlay: rgba(0, 0, 0, 0.25);
+  --overlay-fg: #ffffff;
+  --overlay-border: rgba(255, 255, 255, 0.2);
+  --success: rgba(220, 252, 231, 0.6);
+  --success-fg: #16a34a;
+  --nav-shadow: 0 -10px 40px rgba(0, 0, 0, 0.08);
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--background);
+  color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+.amap-container { background: var(--background) !important; }
+.amap-logo,
+.amap-copyright { display: none !important; }
