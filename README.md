@@ -12,6 +12,13 @@
 
 ---
 
+|  <img width="1075" height="2597" alt="image" src="https://github.com/user-attachments/assets/782c56b9-3c88-4052-9878-0faf0353dce3" />
+   | <img width="1073" height="2562" alt="image" src="https://github.com/user-attachments/assets/4fd4f428-4d50-4b48-bb45-62261073e032" />
+ |
+|  ----  | ----  |
+
+---
+
 ## 功能概览
 
 - **地图足迹** — 基于高德地图 JS API，气泡标记展示所有已到访地点，点击标记查看详情
