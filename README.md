@@ -12,10 +12,7 @@
 
 ---
 
-|  <img width="1075" height="2597" alt="image" src="https://github.com/user-attachments/assets/782c56b9-3c88-4052-9878-0faf0353dce3" />
-   | <img width="1073" height="2562" alt="image" src="https://github.com/user-attachments/assets/4fd4f428-4d50-4b48-bb45-62261073e032" />
- |
-|  ----  | ----  |
+<img width="2171" height="2565" alt="2026-04-20 14 16 20" src="https://github.com/user-attachments/assets/14a9721c-cb45-4075-b928-7e748b03147e" />
 
 ---
 
